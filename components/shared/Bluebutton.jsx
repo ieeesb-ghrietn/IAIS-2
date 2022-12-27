@@ -1,7 +1,7 @@
 const Bluebutton = ({ title }) => {
   return (
     <button
-      disabled={False}
+      disabled={false}
       className="z-20 mb-[-20px] cursor-not-allowed"
     >
       <div className="bg-[url('/hero/blue_button.svg')] bg-no-repeat bg-center bg-cover z-10">
