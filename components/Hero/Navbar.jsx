@@ -31,7 +31,7 @@ const Navbar = () => {
           </ul>
 
           <div className="hidden lg:flex">
-            <Bluebutton title={"Join us"} />
+            <a href='google.co.in'> <Bluebutton title={"Join us"} /></a>
           </div>
 
           <div
