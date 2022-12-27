@@ -1,6 +1,6 @@
 import Image from "next/image";
 import Navbar from "./Navbar";
-import IAIS from "../../images/logos/ico.png";
+import IAIS from "../../images/logos/IAIS.png";
 import Arrow from "../../images/shapes/Arrow.png";
 import IEEELOGO from "../../images/logos/IEEESBLOGO.png";
 import CounterContainer from "./CounterContainer";
