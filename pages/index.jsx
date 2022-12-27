@@ -19,10 +19,10 @@ export default function Home() {
       <main className="font-IBM-Plex">
         <AboutEvent />
         <AboutUs />
-        {/*<OurPartners />
+        <OurPartners />
         <OurSpeakers/>
         <TheyTrustedUs />
-        <Agenda />*/}
+        <Agenda />
       </main>
       <Footer />
     </>
