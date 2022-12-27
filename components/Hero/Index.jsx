@@ -61,7 +61,7 @@ const Hero = () => {
             <div className="hidden lg:flex">
               <Image src={IEEELOGO} />
             </div>
-            <CounterContainer countDownLimit={2023012731040} />
+            <CounterContainer countDownLimit={1666425600000} />
           </div>
 
           <div className="w-12 h-12 absolute bottom-16 left-8">
