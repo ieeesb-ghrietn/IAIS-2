@@ -4,10 +4,10 @@ import globe from "../../images/shapes/globe.png";
 import atom from "../../images/shapes/atom.png";
 import maqam from "../../images/shapes/bridge.png";
 import computer from "../../images/shapes/computer.png";
-import qBraid from "../../images/logos/qBraid.png";
-import World from "../../images/logos/World.png";
+import ComingSoon from "../../images/logos/coming soon.png";
+/*import World from "../../images/logos/World.png";
 import WIQ from "../../images/logos/WIQ.png";
-import Sonatrach from "../../images/logos/Sonatrach.png";
+import Sonatrach from "../../images/logos/Sonatrach.png";*/
 
 const TheyTrustedUs = () => {
   return (
@@ -33,7 +33,7 @@ const TheyTrustedUs = () => {
 
         <div className="flex flex-col justify-center gap-9 2xl:ml-52 lg:ml-40 lg:flex-row lg:mt-20 lg:gap-28 w-3/4 mx-auto  2xl:flex-row 2xl:mt-32 2xl:gap-40">
           <div className="mt-8 h-16 w-44 lg:w-[22rem] lg:h-36 2xl:h-44 2xl:w-[33rem]">
-            <Image src={qBraid} alt="qbraid logo" />
+            <Image src={ComingSoon} alt="Coming Soon" />
           </div>
 
           {/* <div className="lg:mt-10">

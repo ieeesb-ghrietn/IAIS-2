@@ -1,53 +1,53 @@
-import MohamedRouabah from "../../images/speakers/Mohamed_Rouabah.jpeg";
-import NaceriddineBelaloui from "../../images/speakers/Nacereddine_Belaloui.jpeg";
-import RickyYoung from "../../images/speakers/Ricky_Young.jpeg";
-import VardaanSahgal from "../../images/speakers/Vardaan_Sahgal.jpeg";
-import AbdellahTounsi from "../../images/speakers/Abdellah_Tounsi.jpeg";
-import MohamedGarrach from "../../images/speakers/Mohamed_Garrach.jpeg";
-import YousraFarhani from "../../images/speakers/Yousra_Farhani.jpeg";
-import MessaoudLouamri from "../../images/speakers/Messaoud_Louamri.png";
+import Speaker1 from "../../images/speakers/speaker.png";
+import Speaker2 from "../../images/speakers/speaker.png";
+import Speaker3 from "../../images/speakers/speaker.png";
+import Speaker4 from "../../images/speakers/speaker.png";
+import Speaker5 from "../../images/speakers/speaker.png";
+import Speaker6 from "../../images/speakers/speaker.png";
+import Speaker7 from "../../images/speakers/speaker.png";
+import Speaker8 from "../../images/speakers/speaker.png";
 export const speakers = [
   {
-    image: NaceriddineBelaloui,
-    name: "Nacereddine Belaloui",
-    profession: "PhD student in Theoretical Physics, Research Associate at CQTech",
+    image: Speaker1,
+    name: "Coming Soon",
+    profession: "Coming Soon",
   },
   {
-    image: MohamedRouabah,
-    name: "Taha Rouabah",
-    profession: "Principal Investigator at CQTech, Associate Professor at University of Constantine 1",
+    image: Speaker2,
+    name: "Coming Soon",
+    profession: "Coming Soon",
   },
   {
-    image: RickyYoung,
-    name: "Ricky Young",
-    profession: "Quantum software engineer at Qbraid",
+    image: Speaker3,
+    name: "Coming Soon",
+    profession: "Coming Soon",
   },
   {
-    image: VardaanSahgal,
-    name: "Vardaan Sahgal",
+    image: Speaker4,
+    name: "Coming Soon",
     profession:
-      "IBM Qiskit Advocate, M.Sc. Physics at NSUT, Ex Quantum Research Intern at TCS, Ex Quantum Developer at Artificial Brain Technology ",
+      "Coming Soon ",
   },
   {
-    image: AbdellahTounsi,
-    name: "Abdellah Tounsi",
-    profession: "PhD student in Theoretical Physics, Research Associate at CQTech",
+    image: Speaker5,
+    name: "Coming Soon",
+    profession: "Coming Soon",
   },
   {
-    image: MessaoudLouamri,
-    name: "Messaoud Louamri",
-    profession: "PhD student in Theoretical Physics, Research Associate at CQTech",
+    image: Speaker6,
+    name: "Coming Soon",
+    profession: "Coming Soon",
   },
   {
-    image: MohamedGarrach,
-    name: "Amine Garrach",
+    image: Speaker7,
+    name: "Coming Soon",
     profession:
-      "Quantum Computing Enthusiast, ICT Engineering Student, Tunisia",
+      "Coming Soon",
   },
   {
-    image: YousraFarhani,
-    name: "Yousra Farhani",
+    image: Speaker8,
+    name: "Coming Soon",
     profession:
-      "WTM Algiers Lead, Student at ESI Algiers, Quantum Computing Enthusiast",
+      "Coming Soon",
   },
 ];

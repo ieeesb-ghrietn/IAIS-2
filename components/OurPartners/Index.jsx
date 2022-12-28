@@ -1,8 +1,8 @@
 import Link from "next/link";
 import Image from "next/image";
-import IBM from "../../images/logos/IBM.png";
+/*import IBM from "../../images/logos/IBM.png";*/
 import IAIS from "../../images/logos/logoiais.png";
-import CQTech from "../../images/logos/CQTech.png";
+import ComingSoon from "../../images/logos/coming soon.png";
 import atom from "../../images/shapes/atom.png";
 import globe from "../../images/shapes/globe.png";
 import computer from "../../images/shapes/computer.png";
@@ -12,16 +12,16 @@ import SectionTitle from "../shared/SectionTitle";
 const OurPartners = () => {
   const partners = [
     {
-      text: "International Business Machines Corporation (IBM) is an American multinational technology corporation headquartered in Armonk, New York, with operations in over 171 countries.  IBM produces and sells computer hardware, middleware, and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology ",
-      src: IBM,
-      redirect: "https://www.ibm.com/",
+      text: "coming Soon",
+      src: ComingSoon,
+      redirect: "#",
     },
-    {
+    /*{
       text: "Constantine Quantum Technologies (CQTech) is a collaborative research group working on Quantum Optics, Quantum Computing, and Quantum Simulation. CQTech members are mainly theoretical physicists from University of Constantine 1 (UC1) with a strong background on quantum mechanics, statistical mechanics, mathematical and computational physics.",
       src: CQTech,
       space: true,
       redirect: "https://cqtech.org/",
-    },
+    },*/
   ];
   return (
     <section id="our-partners" className="section-container pt-12 lg:pt-24">
