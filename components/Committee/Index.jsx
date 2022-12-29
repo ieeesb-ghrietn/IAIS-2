@@ -1,5 +1,7 @@
 
 const committee = () => {
     return (
-<p>hello</p>
+        <div>
+            <h1>Committee</h1>
+        </div>
     )}
