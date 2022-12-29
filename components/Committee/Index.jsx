@@ -1,4 +1,4 @@
-import { committee } from "./committee";
+import { Committee } from "./Committee";
 const Committee = () =>{
     return (
         <section id='committee' className="relative section-container">
