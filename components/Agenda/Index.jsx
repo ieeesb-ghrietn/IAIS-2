@@ -72,6 +72,7 @@ const Agenda = () => {
         </div>
       </div>
     </section>
+    
   );
 };
 
