@@ -3,7 +3,7 @@ import globe from "../../images/shapes/globe.png";
 import atom from "../../images/shapes/atom.png";
 import computer from "../../images/shapes/computer.png";
 import SectionTitle from "../../components/shared/SectionTitle";
-
+import Image from "next/image";
 
 const Committee = () =>{
     
