@@ -1,16 +1,9 @@
-import { useRef } from "react";
-import YellowButton from "../shared/YellowButton";
-import Image from "next/image";
-import RightArrow from "../../images/sectionsAssets/rightArrow.png";
-import LeftArrow from "../../images/sectionsAssets/leftArrow.png";
 import Maqam from "../../images/shapes/bridge.png";
 import globe from "../../images/shapes/globe.png";
 import atom from "../../images/shapes/atom.png";
 import computer from "../../images/shapes/computer.png";
 import SectionTitle from "../../components/shared/SectionTitle";
-import { Swiper, SwiperSlide } from "swiper/react";
-import "swiper/css";
-import { speakers } from "./data";
+
 
 const Committee = () =>{
     const swiperRef = useRef(null);
