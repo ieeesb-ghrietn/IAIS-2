@@ -19,6 +19,11 @@ const navLinks = [
     content: "Agenda",
     redirect: "#agenda",
   },
+  {
+    content: "Committee",
+    redirect: "../components/Committee/Index.jsx",
+  },
+  
 ];
 
 export default navLinks;
