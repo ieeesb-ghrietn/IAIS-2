@@ -21,7 +21,7 @@ const navLinks = [
   },
   {
     content: "Committee",
-    redirect: "#committee",
+    redirect: "#Committee",
   },
   
 ];
