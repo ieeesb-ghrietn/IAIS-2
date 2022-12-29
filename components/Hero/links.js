@@ -21,7 +21,7 @@ const navLinks = [
   },
   {
     content: "Committee",
-    redirect: "../components/Committee/Index.jsx",
+    redirect: "#Committee",
   },
   
 ];
