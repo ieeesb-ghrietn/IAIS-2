@@ -7,4 +7,4 @@ const Committee = () =>{
 
     )
 }
-export default committee;
+export default Committee;
