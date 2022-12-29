@@ -6,7 +6,7 @@ import SectionTitle from "../../components/shared/SectionTitle";
 
 
 const Committee = () =>{
-    const swiperRef = useRef(null);
+    
     return (
         <section id='committee' className="relative section-container">
             <div className="mb-12 lg:mb-0">
