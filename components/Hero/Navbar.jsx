@@ -31,9 +31,7 @@ const Navbar = () => {
             })}
           </ul>
 
-         <a href="https://www.google.co.in"> <div className="lg:flex">
-            <Bluebutton title={"Join us"} />
-          </div></a>
+         
 
           <div
             onClick={() => setIsNavToggled(!isNavToggled)}
