@@ -24,7 +24,7 @@ export default function Home() {
         <OurSpeakers/>
         <TheyTrustedUs />
         <Agenda />
-        <Committee />
+        <committee />
     
       </main>
       <Footer />

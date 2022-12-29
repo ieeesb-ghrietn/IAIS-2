@@ -1,7 +1,5 @@
 
-const committee = () =>{
-    
+const committee = () => {
     return (
-<p>Hello</p>
-    );
-};
+<p>hello</p>
+    )}
