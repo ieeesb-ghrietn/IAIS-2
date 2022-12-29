@@ -19,6 +19,10 @@ const navLinks = [
     content: "Agenda",
     redirect: "#agenda",
   },
+  {
+    content: "Committee",
+    redirect: "#committee",
+  },
 ];
 
 export default navLinks;
