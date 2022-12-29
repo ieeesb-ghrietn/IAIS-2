@@ -4,8 +4,7 @@ import Image from "next/image";
 import IAIS from "../../images/logos/logoiais.png";
 import NavLinks from "./links";
 import Bluebutton from "../shared/Bluebutton";
-import { withStyles } from '@material-ui/core/styles';
-import Button from '@material-ui/core/Button';
+
 const Navbar = () => {
   const [isNavToggled, setIsNavToggled] = useState(false);
   return (
@@ -33,9 +32,7 @@ const Navbar = () => {
           </ul>
 
           <div className="hidden lg:flex">
-          <Button variant="contained" color="primary" className={classes.button}>
-        Join Us
-      </Button>
+            <Bluebutton title={"Join us"} />
           </div>
 
           <div
