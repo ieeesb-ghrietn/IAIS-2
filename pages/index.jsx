@@ -7,7 +7,7 @@ import Agenda from "../components/Agenda/Index";
 import AboutEvent from "../components/AboutEvent/Index";
 import Footer from "../components/Footer/Index";
 import Hero from "../components/Hero/Index";
-import Committee from "../components/Committee/Index";
+import committee from "../components/Committee/Index";
 export default function Home() {
   return (
     <>
