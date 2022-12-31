@@ -41,7 +41,14 @@ const Committee = () =>{
       <div className="hidden lg:block absolute bottom-[4rem] left-0 lg:bottom-10 lg:right-1/4 lg:w-[80px] 2xl:w-[150px]">
         <Image src={atom} alt="atombotton" />
       </div>
-      
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="mu-speakers-area">
+
+							<div class="mu-title-area">
+								<h2 class="mu-title">Our Mentors</h2>
+								</div>
 
       <div class="mu-speakers-content">
 
@@ -96,6 +103,10 @@ const Committee = () =>{
   </div>
 </div>
 </div> 
+</div>
+					</div>
+				</div>
+			</div>
         </section>
 
     )
