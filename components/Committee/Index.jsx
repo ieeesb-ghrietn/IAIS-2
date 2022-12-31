@@ -43,60 +43,59 @@ const Committee = () =>{
       </div>
       
 
-<div class="wrapper">
-    <div class="our_team">
-        <div class="team_member">
-          <div class="member_img">
-             <Image src={vivekkapur} alt="our_team"/>
-            <div class="social_media">
-               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-               <div class="twitter item"><i class="fab fa-twitter"></i></div>
-               <div class="instagram item"><i class="fab fa-instagram"></i></div>
-             </div>
-          </div>
-          <h3>Mr.Vivek Kapur</h3>
-          <span>Director</span>
-        </div>
-        <div class="team_member">
-           <div class="member_img">
-             <Image src={smitanirkhi} alt="our_team"/>
-             <div class="social_media">
-               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-               <div class="twitter item"><i class="fab fa-twitter"></i></div>
-               <div class="instagram item"><i class="fab fa-instagram"></i></div>
-             </div>
-          </div>
-          <h3>Dr.Smita Nirkhi</h3>
-          <span>HOD Artificial Intelligence</span>
-          </div>
-        <div class="team_member">
-           <div class="member_img">
-             <Image src={tabassumkhan} alt="our_team"/>
-             <div class="social_media">
-               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-               <div class="twitter item"><i class="fab fa-twitter"></i></div>
-               <div class="instagram item"><i class="fab fa-instagram"></i></div>
-             </div>
-          </div>
+      <div class="mu-speakers-content">
 
-          <h3>Prof.Tabassum Khan</h3>
-          <span>Coordinator</span>          
-      </div>
-        <div class="team_member">
-           <div class="member_img">
-             <Image src={shardachabbria} alt="our_team"/>
-             <div class="social_media">
-               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
-               <div class="twitter item"><i class="fab fa-twitter"></i></div>
-               <div class="instagram item"><i class="fab fa-instagram"></i></div>
-             </div>
-          </div>
-          <h3>Dr.Sharda Chhabria</h3>
-          <span>Co-Coordinator</span>
-      </div>  
+<div class="mu-speakers-slider">
+  <div class="mu-single-speakers">
+    <Image src={vivekkapur} alt="Vivek Kapur"/>
+    <div class="mu-single-speakers-info">
+      <h3>Dr.Vivek Kapur</h3>
+      <p>Director</p>
+      <ul class="mu-single-speakers-social">
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
     </div>
+  </div>
+  <div class="mu-single-speakers">
+    <Image src={smitanirkhi} alt="speaker img"/>
+    <div class="mu-single-speakers-info">
+      <h3>Dr. Smita Nirkhi</h3>
+      <p>HOD Artificial Intelligence</p>
+      <ul class="mu-single-speakers-social">
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mu-single-speakers">
+    <Image src={tabassumkhan} alt="speaker img"/>
+    <div class="mu-single-speakers-info">
+      <h3>Prof. Tabassum Khan</h3>
+      <p>Coordinator</p>
+      <ul class="mu-single-speakers-social">
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="mu-single-speakers">
+    <Image src={shardachabbria} alt="speaker img"/>
+    <div class="mu-single-speakers-info">
+      <h3>Dr.Sharda Chabbria </h3>
+      <p>Co-Cordinator</p>
+      <ul class="mu-single-speakers-social">
+        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+        <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      </ul>
+    </div>
+  </div>
 </div>
- 
+</div> 
         </section>
 
     )
