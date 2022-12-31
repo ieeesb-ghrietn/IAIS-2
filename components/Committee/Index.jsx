@@ -10,7 +10,6 @@ import tabassumkhan from "../../images/teams/tabassumkhan.jpg";
 import shardachabbria from "../../images/teams/shardachabbria.jpg";
 import Ravindranath from "../../images/teams/ravindranath.jpg";
 import Linkedin from "../../images/teams/linkedin.png";
-import Link from "jquery.js";
 import { useEffect } from "react";
 const Committee = () =>{
     
