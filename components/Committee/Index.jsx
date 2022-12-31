@@ -4,14 +4,18 @@ import atom from "../../images/shapes/atom.png";
 import computer from "../../images/shapes/computer.png";
 import SectionTitle from "../../components/shared/SectionTitle";
 import Image from "next/image";
-
+import vivekkapur from "../../images/teams/vivekkapur.jpg";
+import Smitanirkhi from "../../images/teams/smitanirkhi.jpg";
+import tabassumkhan from "../../images/teams/tabassumkhan.jpg";
+import shardachhabria from "../../images/teams/shardachhabria.jpg";
+import { useEffect } from "react";
 const Committee = () =>{
     
     return (
         <section id='committee' className="relative section-container">
             <div className="mb-12 lg:mb-0">
         <SectionTitle title={"Committee Members"} /> 
-        <h1>Our Mentors</h1>
+        
       </div>
 
       <div className="visible absolute sm:bottom-0 sm:right-0 sm:w-[45px] md:top-0 md:right-0 md:w-[55px] md:h-[55px] lg:top-1/4 lg:right-[50px] lg:top-[50px] lg:w-[100px] 2xl:w-[150px] 2xl:h-[120px] z-25 ">
@@ -37,15 +41,25 @@ const Committee = () =>{
       <div className="hidden lg:block absolute bottom-[4rem] left-0 lg:bottom-10 lg:right-1/4 lg:w-[80px] 2xl:w-[150px]">
         <Image src={atom} alt="atombotton" />
       </div>
+      
+
 <div class="wrapper">
     <div class="our_team">
         <div class="team_member">
+          <div class="member_img">
+             <Image src={vivekkapur} alt="our_team"/>
+            <div class="social_media">
+               <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
+               <div class="twitter item"><i class="fab fa-twitter"></i></div>
+               <div class="instagram item"><i class="fab fa-instagram"></i></div>
+             </div>
+          </div>
           <h3>Mr.Vivek Kapur</h3>
           <span>Director</span>
         </div>
         <div class="team_member">
            <div class="member_img">
-             <Image src="https://i.imgur.com/JzUIF4o.png" alt="our_team"/>
+             <Image src={Smitanirkhi} alt="our_team"/>
              <div class="social_media">
                <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                <div class="twitter item"><i class="fab fa-twitter"></i></div>
@@ -57,19 +71,20 @@ const Committee = () =>{
           </div>
         <div class="team_member">
            <div class="member_img">
-             <Image src="https://i.imgur.com/Ctwf8HA.png" alt="our_team"/>
+             <Image src={tabassumkhan} alt="our_team"/>
              <div class="social_media">
                <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                <div class="twitter item"><i class="fab fa-twitter"></i></div>
                <div class="instagram item"><i class="fab fa-instagram"></i></div>
              </div>
           </div>
+
           <h3>Prof.Tabassum Khan</h3>
           <span>Coordinator</span>          
       </div>
         <div class="team_member">
            <div class="member_img">
-             <Image src="https://i.imgur.com/A1Fjq0d.png" alt="our_team"/>
+             <Image src={shardachhabria} alt="our_team"/>
              <div class="social_media">
                <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                <div class="twitter item"><i class="fab fa-twitter"></i></div>
