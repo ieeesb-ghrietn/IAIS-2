@@ -5,9 +5,9 @@ import computer from "../../images/shapes/computer.png";
 import SectionTitle from "../../components/shared/SectionTitle";
 import Image from "next/image";
 import vivekkapur from "../../images/teams/vivekkapur.jpg";
-import Smitanirkhi from "../../images/teams/smitanirkhi.jpg";
+import smitanirkhi from "../../images/teams/smitanirkhi.jpg";
 import tabassumkhan from "../../images/teams/tabassumkhan.jpg";
-import shardachhabria from "../../images/teams/shardachhabria.jpg";
+import shardachabbria from "../../images/teams/shardachabbria.jpg";
 import { useEffect } from "react";
 const Committee = () =>{
     
@@ -59,7 +59,7 @@ const Committee = () =>{
         </div>
         <div class="team_member">
            <div class="member_img">
-             <Image src={Smitanirkhi} alt="our_team"/>
+             <Image src={smitanirkhi} alt="our_team"/>
              <div class="social_media">
                <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                <div class="twitter item"><i class="fab fa-twitter"></i></div>
@@ -84,7 +84,7 @@ const Committee = () =>{
       </div>
         <div class="team_member">
            <div class="member_img">
-             <Image src={shardachhabria} alt="our_team"/>
+             <Image src={shardachabbria} alt="our_team"/>
              <div class="social_media">
                <div class="facebook item"><i class="fab fa-facebook-f"></i></div>
                <div class="twitter item"><i class="fab fa-twitter"></i></div>
