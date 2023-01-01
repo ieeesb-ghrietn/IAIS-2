@@ -45,7 +45,7 @@ const Hero = () => {
                   <Image src={Arrow} layout="fill" />
                 </div>
                 <div className="mb-[-50px] 2xl:mb-[-110px] cursor-not-allowed" >
-                <a href="https://unstop.com/workshop/international-ai-summit-2-g-h-raisoni-institute-of-engineering-and-technology-ghriet-nagpur-maharashtra-578300?lb=XDyfE8N"><button type="button"><i>Register Now!</i></button></a>
+                <button type="button"><a href="https://unstop.com/workshop/international-ai-summit-2-g-h-raisoni-institute-of-engineering-and-technology-ghriet-nagpur-maharashtra-578300?lb=XDyfE8N"><i>Register Now!</i></a></button>
                 </div>
               </div>
             </div>
