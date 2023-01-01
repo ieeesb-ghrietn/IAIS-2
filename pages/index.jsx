@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>IAIS 2023</title> 
+        <title>IAIS 2023</title>  
         <link rel="shortcut icon" href="/ico.png" />
       </Head>
 
