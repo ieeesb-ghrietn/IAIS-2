@@ -52,7 +52,7 @@ const Committee = () =>{
       <div class="container">
         <h2>Dr. Vivek Kapur</h2>
         <p class="title">Director</p>
-        <p><button class="button">Contact</button></p>
+        <p><a href="https://www.linkedin.com/in/vivek-kapur1130"><button class="button">Contact</button></a></p>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ const Committee = () =>{
       <div class="container">
         <h2>Dr.Smita Nirkhi</h2>
         <p class="title">HOD AI</p>
-        <p><button class="button">Contact</button></p>
+        <p><a href="https://in.linkedin.com/in/dr-smita-nirkhi-singh-b803a859"><button class="button">Contact</button></a></p>
       </div>
     </div>
   </div>
@@ -74,7 +74,7 @@ const Committee = () =>{
       <div class="container">
         <h2>Prof. Tabassum Khan</h2>
         <p class="title">Coordinator</p>
-        <p><button class="button">Contact</button></p>
+        <p><a href="https://in.linkedin.com/in/tabassum-khan-65146467"><button class="button">Contact</button></a></p>
       </div>
     </div>
   </div>
