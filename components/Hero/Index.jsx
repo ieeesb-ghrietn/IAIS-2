@@ -45,7 +45,7 @@ const Hero = () => {
                   <Image src={Arrow} layout="fill" />
                 </div>
                 <div className="mb-[-50px] 2xl:mb-[-110px] cursor-not-allowed">
-                  <Purpulebutton title={"Register Now!"} />
+                <i href="https://unstop.com/workshop/international-ai-summit-2-g-h-raisoni-institute-of-engineering-and-technology-ghriet-nagpur-maharashtra-578300?lb=XDyfE8N"><button type="button">Register Now!</button></i>
                 </div>
               </div>
             </div>
@@ -61,7 +61,6 @@ const Hero = () => {
             <div className="hidden lg:flex">
               <Image src={IEEELOGO} />
             </div>
-            <CounterContainer countDownLimit={1666425600000} />
           </div>
 
           <div className="w-12 h-12 absolute bottom-16 left-8">

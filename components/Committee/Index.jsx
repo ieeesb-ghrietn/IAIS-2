@@ -70,7 +70,7 @@ const Committee = () =>{
                     <h4 class="u-text u-text-4">Dr.Smita Nirkhi</h4>
                     <h6 class="u-text u-text-5">HOD AI</h6>
                   </div>
-                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-2"><Image src={Linkedin} alt=""/></span>
+                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-1"><Image src={Linkedin} alt=""/></span>
               </div>
             </div>
           </div>
@@ -101,7 +101,7 @@ const Committee = () =>{
                     <h4 class="u-text u-text-4">Dr. Sharda Chabbria</h4>
                     <h6 class="u-text u-text-5">Co-Coordinator</h6>
                   </div>
-                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-2"><Image src={Linkedin} alt=""/></span>
+                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-1"><Image src={Linkedin} alt=""/></span>
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item u-video-cover u-white">
@@ -112,7 +112,7 @@ const Committee = () =>{
                     <h4 class="u-text u-text-6">Mr. Ravindranath Sawane</h4>
                     <h6 class="u-text u-text-7">Student Coordinator</h6>
                   </div>
-                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-3"><Image src={Linkedin} alt=""/></span>
+                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-1"><Image src={Linkedin} alt=""/></span>
               </div>
             </div>
           </div>
