@@ -43,7 +43,7 @@ const Committee = () =>{
       <div className="hidden lg:block absolute bottom-[4rem] left-0 lg:bottom-10 lg:right-1/4 lg:w-[80px] 2xl:w-[150px]">
         <Image src={atom} alt="atombotton" />
       </div>
-      
+      <br></br>
       {/*Added code*/}
       <div class="row">
   <div class="column">
