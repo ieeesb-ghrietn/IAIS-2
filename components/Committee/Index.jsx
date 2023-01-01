@@ -94,17 +94,6 @@ const Committee = () =>{
               </div>
             </div>
             <div class="u-container-style u-list-item u-repeater-item u-video-cover u-white">
-              <div class="u-container-layout u-similar-container u-container-layout-3">
-                <Image alt="" class="u-expanded-width u-image u-image-default u-image-2" data-image-width="626" data-image-height="417" src={shardachabbria}/>
-                <div class="u-align-center u-container-style u-group u-white u-group-2">
-                  <div class="u-container-layout u-container-layout-4">
-                    <h4 class="u-text u-text-4">Dr. Sharda Chabbria</h4>
-                    <h6 class="u-text u-text-5">Co-Coordinator</h6>
-                  </div>
-                </div><span class="u-file-icon u-icon u-icon-circle u-palette-1-base u-text-white u-icon-1"><Image src={Linkedin} alt=""/></span>
-              </div>
-            </div>
-            <div class="u-container-style u-list-item u-repeater-item u-video-cover u-white">
               <div class="u-container-layout u-similar-container u-container-layout-5">
                 <Image alt="" class="u-expanded-width u-image u-image-default u-image-3" data-image-width="626" data-image-height="417" src={Ravindranath}/>
                 <div class="u-align-center u-container-style u-group u-white u-group-3">
