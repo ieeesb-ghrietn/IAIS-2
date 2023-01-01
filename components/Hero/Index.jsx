@@ -44,7 +44,7 @@ const Hero = () => {
                 <div className="relative h-[67px] bounce w-[67px] 2xl:w-[101px] 2xl:h-[114px]">
                   <Image src={Arrow} layout="fill" />
                 </div>
-                <div className="mb-[-50px] 2xl:mb-[-110px] cursor-not-allowed">
+                <div className="mb-[-50px] 2xl:mb-[-110px] cursor-not-allowed" >
                 <i href="https://unstop.com/workshop/international-ai-summit-2-g-h-raisoni-institute-of-engineering-and-technology-ghriet-nagpur-maharashtra-578300?lb=XDyfE8N"><button type="button">Register Now!</button></i>
                 </div>
               </div>
