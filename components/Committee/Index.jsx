@@ -74,7 +74,7 @@ const Committee = () =>{
       <div class="container">
         <h2>Prof. Tabassum Khan</h2>
         <p class="title">Coordinator</p>
-        <p><a href="https://in.linkedin.com/in/tabassum-khan-65146467"><button class="button">Contact</button></a></p>
+        <p><a href="linkedin.com/in/tabassum-h-khan-b24b5a1a4"><button class="button">Contact</button></a></p>
       </div>
     </div>
   </div>
