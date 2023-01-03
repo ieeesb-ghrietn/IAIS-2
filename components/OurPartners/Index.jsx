@@ -8,14 +8,21 @@ import globe from "../../images/shapes/globe.png";
 import computer from "../../images/shapes/computer.png";
 import bridge from "../../images/shapes/bridge.png";
 import SectionTitle from "../shared/SectionTitle";
+import IEEEBS from "../../images/logos/IEEEBS.png"; 
+import NSS from "../../images/logos/NSS.png";
 
 const OurPartners = () => {
   const partners = [
     {
-      text: "coming Soon",
-      src: ComingSoon,
+      text: "IEEE Bombay Section",
+      src: IEEEBS,
       redirect: "#",
     },
+    {
+      text: "IEEE NagpurSubsection",
+      src: NSS,
+      redirect: "#",
+    }
     /*{
       text: "Constantine Quantum Technologies (CQTech) is a collaborative research group working on Quantum Optics, Quantum Computing, and Quantum Simulation. CQTech members are mainly theoretical physicists from University of Constantine 1 (UC1) with a strong background on quantum mechanics, statistical mechanics, mathematical and computational physics.",
       src: CQTech,
