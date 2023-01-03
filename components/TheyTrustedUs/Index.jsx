@@ -5,6 +5,8 @@ import atom from "../../images/shapes/atom.png";
 import maqam from "../../images/shapes/bridge.png";
 import computer from "../../images/shapes/computer.png";
 import ComingSoon from "../../images/logos/coming soon.png";
+import IEEEBS from "../../images/logos/IEEEBS.png";
+import NSS from "../../images/logos/NSS.png";
 /*import World from "../../images/logos/World.png";
 import WIQ from "../../images/logos/WIQ.png";
 import Sonatrach from "../../images/logos/Sonatrach.png";*/
@@ -33,14 +35,14 @@ const TheyTrustedUs = () => {
 
         <div className="flex flex-col justify-center gap-9 2xl:ml-52 lg:ml-40 lg:flex-row lg:mt-20 lg:gap-28 w-3/4 mx-auto  2xl:flex-row 2xl:mt-32 2xl:gap-40">
           <div className="mt-8 h-16 w-44 lg:w-[22rem] lg:h-36 2xl:h-44 2xl:w-[33rem]">
-            <Image src={ComingSoon} alt="Coming Soon" />
+            <Image src={IEEEBS} alt="Coming Soon" />
           </div>
 
-          {/* <div className="lg:mt-10">
+          <div className="lg:mt-10">
             <div className="h-16 w-36 lg:w-[22rem] lg:h-36 2xl:h-52 2xl:w-[33rem]">
-              <Image src={WIQ} alt="WIQ logo" />
+              <Image src={NSS} alt="WIQ logo" />
             </div>
-          </div> */}
+          </div> 
         </div>
 {/* 
         <div className="flex flex-col items-center gap-9 lg:flex-row lg:gap-24 lg:mr-28 2xl:flex-row 2xl:mr-60 2xl:gap-36 w-2/3 mx-auto">
