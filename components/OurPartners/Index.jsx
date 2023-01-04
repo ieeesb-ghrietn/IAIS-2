@@ -2,7 +2,7 @@ import Link from "next/link";
 import Image from "next/image";
 /*import IBM from "../../images/logos/IBM.png";*/
 import IAIS from "../../images/logos/logoiais.png";
-import ComingSoon from "../../images/logos/coming soon.png";
+import breathing from "../../images/logos/paper.jpg";
 import atom from "../../images/shapes/atom.png";
 import globe from "../../images/shapes/globe.png";
 import computer from "../../images/shapes/computer.png";
@@ -12,8 +12,8 @@ import SectionTitle from "../shared/SectionTitle";
 const OurPartners = () => {
   const partners = [
     {
-      text: "coming Soon",
-      src: ComingSoon,
+      text: "Breathing Paper",
+      src: breathing,
       redirect: "#",
     },
     /*{
