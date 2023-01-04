@@ -12,7 +12,6 @@ import SectionTitle from "../shared/SectionTitle";
 const OurPartners = () => {
   const partners = [
     {
-      text: "Breathing Paper",
       src: breathing,
       redirect: "#",
     },
