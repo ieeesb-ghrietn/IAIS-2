@@ -38,8 +38,9 @@ const TheyTrustedUs = () => {
 
             <div className="lg:mt-10">
             <div className="h-16 w-36 lg:w-[22rem] lg:h-36 2xl:h-52 2xl:w-[33rem]">
-              <Image src={} alt="WIQ logo" />
-            </div> </div>  
+              {/*<Image src={} alt="WIQ logo" /> */}
+            </div> 
+            </div>  
         </div> 
 {/*
         <div className="flex flex-col items-center gap-9 lg:flex-row lg:gap-24 lg:mr-28 2xl:flex-row 2xl:mr-60 2xl:gap-36 w-2/3 mx-auto">
